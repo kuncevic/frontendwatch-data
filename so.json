@@ -1,0 +1,44 @@
+[
+  {
+    "name": "vue",
+    "total": 63246,
+    "featured": 5,
+    "noAnswers": 13744
+  },
+  {
+    "name": "angular",
+    "total": 229410,
+    "featured": 15,
+    "noAnswers": 46379
+  },
+  {
+    "name": "react",
+    "total": 242159,
+    "featured": 20,
+    "noAnswers": 50265
+  },
+  {
+    "name": "ember",
+    "total": 23602,
+    "featured": 0,
+    "noAnswers": 2635
+  },
+  {
+    "name": "svelte",
+    "total": 1054,
+    "featured": 0,
+    "noAnswers": 158
+  },
+  {
+    "name": "aurelia",
+    "total": 3312,
+    "featured": 0,
+    "noAnswers": 456
+  },
+  {
+    "name": "elm",
+    "total": 1705,
+    "featured": 0,
+    "noAnswers": 94
+  }
+]

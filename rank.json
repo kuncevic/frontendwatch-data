@@ -1,0 +1,58 @@
+[
+  {
+    "name": "vue",
+    "url": "https://vuejs.org",
+    "rank": 49918,
+    "daily": 62194,
+    "monthly": 1928017,
+    "yearly": 23136204
+  },
+  {
+    "name": "angular",
+    "url": "https://angular.io",
+    "rank": 26939,
+    "daily": 115816,
+    "monthly": 3590290,
+    "yearly": 43083480
+  },
+  {
+    "name": "react",
+    "url": "https://reactjs.org",
+    "rank": 7746,
+    "daily": 406820,
+    "monthly": 12611419,
+    "yearly": 151337028
+  },
+  {
+    "name": "ember",
+    "url": "https://emberjs.com",
+    "rank": 202495,
+    "daily": 15161,
+    "monthly": 469990,
+    "yearly": 5639880
+  },
+  {
+    "name": "svelte",
+    "url": "https://svelte.dev",
+    "rank": 89336,
+    "daily": 34591,
+    "monthly": 1072308,
+    "yearly": 12867696
+  },
+  {
+    "name": "aurelia",
+    "url": "https://aurelia.io",
+    "rank": 432621,
+    "daily": 7053,
+    "monthly": 218654,
+    "yearly": 2623848
+  },
+  {
+    "name": "elm",
+    "url": "https://elm-lang.org",
+    "rank": 114440,
+    "daily": 26949,
+    "monthly": 835425,
+    "yearly": 10025100
+  }
+]

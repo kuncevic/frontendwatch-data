@@ -1,0 +1,65 @@
+[
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "stars": 170704,
+    "forks": 26142,
+    "issues": 534,
+    "updated": "2020-08-25T22:25:26Z",
+    "created": "2013-07-29T03:24:51Z"
+  },
+  {
+    "name": "angular",
+    "url": "https://github.com/angular/angular",
+    "stars": 65278,
+    "forks": 17379,
+    "issues": 3237,
+    "updated": "2020-08-25T23:35:08Z",
+    "created": "2014-09-18T16:12:01Z"
+  },
+  {
+    "name": "react",
+    "url": "https://github.com/facebook/react",
+    "stars": 154761,
+    "forks": 30351,
+    "issues": 567,
+    "updated": "2020-08-26T02:53:17Z",
+    "created": "2013-05-24T16:15:54Z"
+  },
+  {
+    "name": "ember",
+    "url": "https://github.com/emberjs/ember.js",
+    "stars": 21521,
+    "forks": 4210,
+    "issues": 345,
+    "updated": "2020-08-26T00:11:46Z",
+    "created": "2011-05-25T23:39:40Z"
+  },
+  {
+    "name": "svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "stars": 36473,
+    "forks": 1725,
+    "issues": 540,
+    "updated": "2020-08-25T08:37:39Z",
+    "created": "2016-11-20T18:13:05Z"
+  },
+  {
+    "name": "aurelia",
+    "url": "https://github.com/aurelia/framework",
+    "stars": 11470,
+    "forks": 682,
+    "issues": 63,
+    "updated": "2020-08-17T15:39:58Z",
+    "created": "2014-12-10T19:22:29Z"
+  },
+  {
+    "name": "elm",
+    "url": "https://github.com/elm/compiler",
+    "stars": 6077,
+    "forks": 525,
+    "issues": 197,
+    "updated": "2020-08-17T01:00:04Z",
+    "created": "2012-04-19T06:24:43Z"
+  }
+]

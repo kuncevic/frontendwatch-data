@@ -1,0 +1,30 @@
+[
+  {
+    "name": "vue",
+    "version": "2.6.12"
+  },
+  {
+    "name": "angular",
+    "version": "10.0.12"
+  },
+  {
+    "name": "react",
+    "version": "16.13.1"
+  },
+  {
+    "name": "ember",
+    "version": "3.20.0"
+  },
+  {
+    "name": "svelte",
+    "version": "3.24.1"
+  },
+  {
+    "name": "aurelia",
+    "version": "1.3.1"
+  },
+  {
+    "name": "elm",
+    "version": "0.19.1-3"
+  }
+]
