@@ -5,19 +5,19 @@
   },
   {
     "name": "angular",
-    "version": "10.1.4"
+    "version": "10.2.1"
   },
   {
     "name": "react",
-    "version": "16.13.1"
+    "version": "17.0.1"
   },
   {
     "name": "ember",
-    "version": "3.21.2"
+    "version": "3.22.0"
   },
   {
     "name": "svelte",
-    "version": "3.29.0"
+    "version": "3.29.4"
   },
   {
     "name": "aurelia",
