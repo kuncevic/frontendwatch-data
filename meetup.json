@@ -2,44 +2,44 @@
   {
     "name": "vue",
     "url": "https://meetup.com/topics/vuejs/all",
-    "members": 24212,
-    "interested": 554,
-    "meetups": 79,
-    "cities": 71,
-    "countries": 29
+    "members": 27348,
+    "interested": 561,
+    "meetups": 77,
+    "cities": 69,
+    "countries": 28
   },
   {
     "name": "angular",
     "url": "https://meetup.com/topics/angularjs/all",
-    "members": 679124,
-    "interested": 19463,
-    "meetups": 686,
-    "cities": 346,
-    "countries": 63
+    "members": 679176,
+    "interested": 19454,
+    "meetups": 681,
+    "cities": 348,
+    "countries": 64
   },
   {
     "name": "react",
     "url": "https://meetup.com/topics/reactjs/all",
-    "members": 616922,
-    "interested": 9744,
-    "meetups": 649,
-    "cities": 303,
+    "members": 617273,
+    "interested": 9796,
+    "meetups": 642,
+    "cities": 302,
     "countries": 63
   },
   {
     "name": "ember",
     "url": "https://meetup.com/topics/emberjs/all",
-    "members": 452,
+    "members": 172,
     "interested": 16,
-    "meetups": 4,
-    "cities": 4,
-    "countries": 4
+    "meetups": 3,
+    "cities": 3,
+    "countries": 3
   },
   {
     "name": "svelte",
     "url": "https://meetup.com/topics/sveltejs/all",
-    "members": 1763,
-    "interested": 37,
+    "members": 1785,
+    "interested": 38,
     "meetups": 9,
     "cities": 9,
     "countries": 7
@@ -47,7 +47,7 @@
   {
     "name": "aurelia",
     "url": "https://meetup.com/topics/aurelia/all",
-    "members": 3522,
+    "members": 3521,
     "interested": 40,
     "meetups": 3,
     "cities": 3,
@@ -56,8 +56,8 @@
   {
     "name": "elm",
     "url": "https://meetup.com/topics/elm/all",
-    "members": 14575,
-    "interested": 360,
+    "members": 14654,
+    "interested": 359,
     "meetups": 63,
     "cities": 55,
     "countries": 21
