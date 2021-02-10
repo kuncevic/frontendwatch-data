@@ -2,57 +2,57 @@
   {
     "name": "vue",
     "url": "https://vuejs.org",
-    "rank": 2105,
-    "daily": 1512705,
-    "monthly": 46893857,
-    "yearly": 562726284
+    "rank": 29811,
+    "daily": 104573,
+    "monthly": 3241772,
+    "yearly": 38901264
   },
   {
     "name": "angular",
     "url": "https://angular.io",
-    "rank": 8133,
-    "daily": 387311,
-    "monthly": 12006635,
-    "yearly": 144079620
+    "rank": 9818,
+    "daily": 320356,
+    "monthly": 9931043,
+    "yearly": 119172516
   },
   {
     "name": "react",
     "url": "https://reactjs.org",
-    "rank": 17558,
-    "daily": 178304,
-    "monthly": 5527430,
-    "yearly": 66329160
+    "rank": 2074,
+    "daily": 1535498,
+    "monthly": 47600427,
+    "yearly": 571205124
   },
   {
     "name": "ember",
     "url": "https://emberjs.com",
-    "rank": 58804,
-    "daily": 52727,
-    "monthly": 1634526,
-    "yearly": 19614312
+    "rank": 81546,
+    "daily": 37923,
+    "monthly": 1175602,
+    "yearly": 14107224
   },
   {
     "name": "svelte",
     "url": "https://svelte.dev",
-    "rank": 47481,
-    "daily": 65412,
-    "monthly": 2027786,
-    "yearly": 24333432
+    "rank": 71687,
+    "daily": 43183,
+    "monthly": 1338660,
+    "yearly": 16063920
   },
   {
     "name": "aurelia",
     "url": "https://aurelia.io",
-    "rank": 299583,
-    "daily": 10216,
-    "monthly": 316683,
-    "yearly": 3800196
+    "rank": 480592,
+    "daily": 6344,
+    "monthly": 196663,
+    "yearly": 2359956
   },
   {
     "name": "elm",
     "url": "https://elm-lang.org",
-    "rank": 450428,
-    "daily": 6772,
-    "monthly": 209942,
-    "yearly": 2519304
+    "rank": 137844,
+    "daily": 22340,
+    "monthly": 692550,
+    "yearly": 8310600
   }
 ]
