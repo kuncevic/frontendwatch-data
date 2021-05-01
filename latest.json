@@ -5,7 +5,7 @@
   },
   {
     "name": "angular",
-    "version": "11.2.7"
+    "version": "11.2.12"
   },
   {
     "name": "react",
@@ -13,11 +13,11 @@
   },
   {
     "name": "ember",
-    "version": "3.25.3"
+    "version": "3.26.1"
   },
   {
     "name": "svelte",
-    "version": "3.37.0"
+    "version": "3.38.1"
   },
   {
     "name": "aurelia",
