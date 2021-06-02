@@ -1,23 +1,23 @@
 [
   {
     "name": "vue",
-    "version": "2.6.12"
+    "version": "2.6.13"
   },
   {
     "name": "angular",
-    "version": "11.2.3"
+    "version": "12.0.2"
   },
   {
     "name": "react",
-    "version": "17.0.1"
+    "version": "17.0.2"
   },
   {
     "name": "ember",
-    "version": "3.25.0"
+    "version": "3.26.1"
   },
   {
     "name": "svelte",
-    "version": "3.35.0"
+    "version": "3.38.2"
   },
   {
     "name": "aurelia",
