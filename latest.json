@@ -1,11 +1,11 @@
 [
   {
     "name": "vue",
-    "version": "2.6.12"
+    "version": "2.6.13"
   },
   {
     "name": "angular",
-    "version": "11.2.12"
+    "version": "12.0.2"
   },
   {
     "name": "react",
@@ -17,7 +17,7 @@
   },
   {
     "name": "svelte",
-    "version": "3.38.1"
+    "version": "3.38.2"
   },
   {
     "name": "aurelia",
