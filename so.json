@@ -1,44 +1,44 @@
 [
   {
     "name": "vue",
-    "total": 85950,
-    "featured": 4,
-    "noAnswers": 17616
+    "total": 87592,
+    "featured": 5,
+    "noAnswers": 17899
   },
   {
     "name": "angular",
-    "total": 265307,
-    "featured": 4,
-    "noAnswers": 51115
+    "total": 267621,
+    "featured": 7,
+    "noAnswers": 51331
   },
   {
     "name": "react",
-    "total": 343129,
-    "featured": 9,
-    "noAnswers": 71101
+    "total": 351347,
+    "featured": 11,
+    "noAnswers": 72644
   },
   {
     "name": "ember",
-    "total": 23803,
+    "total": 23812,
     "featured": 0,
-    "noAnswers": 2659
+    "noAnswers": 2658
   },
   {
     "name": "svelte",
-    "total": 2294,
+    "total": 2433,
     "featured": 0,
-    "noAnswers": 445
+    "noAnswers": 469
   },
   {
     "name": "aurelia",
-    "total": 3382,
+    "total": 3380,
     "featured": 0,
-    "noAnswers": 473
+    "noAnswers": 468
   },
   {
     "name": "elm",
-    "total": 1796,
+    "total": 1806,
     "featured": 0,
-    "noAnswers": 102
+    "noAnswers": 103
   }
 ]
