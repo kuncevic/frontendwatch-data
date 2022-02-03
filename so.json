@@ -3,23 +3,23 @@
     "name": "vue",
     "total": 89574,
     "featured": 4,
-    "noAnswers": 18203
+    "noAnswers": 18205
   },
   {
     "name": "angular",
-    "total": 270906,
+    "total": 270921,
     "featured": 4,
-    "noAnswers": 51751
+    "noAnswers": 51760
   },
   {
     "name": "react",
-    "total": 363286,
+    "total": 363297,
     "featured": 18,
-    "noAnswers": 75460
+    "noAnswers": 75449
   },
   {
     "name": "ember",
-    "total": 23824,
+    "total": 23825,
     "featured": 0,
     "noAnswers": 2649
   },
