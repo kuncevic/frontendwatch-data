@@ -2,46 +2,46 @@
   {
     "name": "vue",
     "url": "https://github.com/vuejs/vue",
-    "stars": 192102,
-    "forks": 31147,
-    "issues": 548,
-    "updated": "2022-01-09T13:48:56Z",
+    "stars": 192754,
+    "forks": 31329,
+    "issues": 554,
+    "updated": "2022-02-02T08:37:09Z",
     "created": "2013-07-29T03:24:51Z"
   },
   {
     "name": "angular",
     "url": "https://github.com/angular/angular",
-    "stars": 78728,
-    "forks": 20687,
-    "issues": 1901,
-    "updated": "2022-01-10T09:53:13Z",
+    "stars": 79349,
+    "forks": 20830,
+    "issues": 1779,
+    "updated": "2022-02-03T02:55:11Z",
     "created": "2014-09-18T16:12:01Z"
   },
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 180470,
-    "forks": 36687,
-    "issues": 916,
-    "updated": "2022-01-09T22:39:12Z",
+    "stars": 181753,
+    "forks": 36991,
+    "issues": 945,
+    "updated": "2022-02-03T01:26:51Z",
     "created": "2013-05-24T16:15:54Z"
   },
   {
     "name": "ember",
     "url": "https://github.com/emberjs/ember.js",
-    "stars": 22119,
-    "forks": 4259,
-    "issues": 425,
-    "updated": "2022-01-10T07:14:59Z",
+    "stars": 22134,
+    "forks": 4266,
+    "issues": 432,
+    "updated": "2022-02-03T00:57:12Z",
     "created": "2011-05-25T23:39:40Z"
   },
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 54598,
-    "forks": 2633,
-    "issues": 624,
-    "updated": "2022-01-09T14:15:07Z",
+    "stars": 55440,
+    "forks": 2679,
+    "issues": 644,
+    "updated": "2022-02-02T16:16:24Z",
     "created": "2016-11-20T18:13:05Z"
   },
   {
@@ -49,16 +49,16 @@
     "url": "https://github.com/aurelia/framework",
     "stars": 11665,
     "forks": 686,
-    "issues": 72,
-    "updated": "2021-12-03T00:51:33Z",
+    "issues": 74,
+    "updated": "2022-01-13T08:56:43Z",
     "created": "2014-12-10T19:22:29Z"
   },
   {
     "name": "elm",
     "url": "https://github.com/elm/compiler",
-    "stars": 6696,
-    "forks": 603,
-    "issues": 260,
+    "stars": 6736,
+    "forks": 608,
+    "issues": 264,
     "updated": "2021-12-15T16:26:57Z",
     "created": "2012-04-19T06:24:43Z"
   }
