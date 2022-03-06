@@ -1,25 +1,25 @@
 [
   {
     "name": "vue",
-    "total": 89574,
-    "featured": 4,
-    "noAnswers": 18205
+    "total": 90886,
+    "featured": 6,
+    "noAnswers": 18411
   },
   {
     "name": "angular",
-    "total": 270921,
-    "featured": 4,
-    "noAnswers": 51760
+    "total": 273244,
+    "featured": 14,
+    "noAnswers": 52248
   },
   {
     "name": "react",
-    "total": 363297,
-    "featured": 18,
-    "noAnswers": 75449
+    "total": 370883,
+    "featured": 20,
+    "noAnswers": 77169
   },
   {
     "name": "ember",
-    "total": 23825,
+    "total": 23838,
     "featured": 0,
     "noAnswers": 2653
   },
