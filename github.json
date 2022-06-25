@@ -27,15 +27,6 @@
     "created": "2014-09-18T16:12:01Z"
   },
   {
-    "name": "react",
-    "url": "https://github.com/facebook/react",
-    "stars": 190394,
-    "forks": 39220,
-    "issues": 989,
-    "updated": "2022-06-24T19:40:08Z",
-    "created": "2013-05-24T16:15:54Z"
-  },
-  {
     "name": "ember",
     "url": "https://github.com/emberjs/ember.js",
     "stars": 22209,
