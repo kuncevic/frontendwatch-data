@@ -1,74 +1,66 @@
 [
   {
     "name": "vue",
-    "url": "https://meetup.com/topics/vuejs/all",
-    "members": 29703,
-    "interested": 593,
-    "meetups": 56,
-    "cities": 49,
-    "countries": 23
+    "url": "https://vuejs.org",
+    "rank": 5830,
+    "daily": 193333.33333333334,
+    "monthly": 5800000,
+    "yearly": 69600000
   },
   {
     "name": "next",
-    "url": "https://meetup.com/topics/nextjs/all",
-    "members": 7303,
-    "interested": 105,
-    "meetups": 17,
-    "cities": 16,
-    "countries": 11
+    "url": "https://nextjs.org",
+    "rank": 23844,
+    "daily": 96666.66666666667,
+    "monthly": 2900000,
+    "yearly": 34800000
   },
   {
     "name": "angular",
-    "url": "https://meetup.com/topics/angularjs/all",
-    "members": 628474,
-    "interested": 19568,
-    "meetups": 577,
-    "cities": 302,
-    "countries": 59
+    "url": "https://angular.io",
+    "rank": 14642,
+    "daily": 143333.33333333334,
+    "monthly": 4300000,
+    "yearly": 51600000
   },
   {
     "name": "react",
-    "url": "https://meetup.com/topics/reactjs/all",
-    "members": 683922,
-    "interested": 11302,
-    "meetups": 659,
-    "cities": 288,
-    "countries": 64
+    "url": "https://reactjs.org",
+    "rank": 11099,
+    "daily": 236666.66666666666,
+    "monthly": 7100000,
+    "yearly": 85200000
   },
   {
     "name": "ember",
-    "url": "https://meetup.com/topics/emberjs/all",
-    "members": 0,
-    "interested": 17,
-    "meetups": 0,
-    "cities": 0,
-    "countries": 0
+    "url": "https://emberjs.com",
+    "rank": 296297,
+    "daily": 4733.333333333333,
+    "monthly": 142000,
+    "yearly": 1704000
   },
   {
     "name": "svelte",
-    "url": "https://meetup.com/topics/sveltejs/all",
-    "members": 5363,
-    "interested": 79,
-    "meetups": 14,
-    "cities": 14,
-    "countries": 11
+    "url": "https://svelte.dev",
+    "rank": 53771,
+    "daily": 31523.333333333332,
+    "monthly": 945700,
+    "yearly": 11348400
   },
   {
     "name": "aurelia",
-    "url": "https://meetup.com/topics/aurelia/all",
-    "members": 2829,
-    "interested": 40,
-    "meetups": 2,
-    "cities": 2,
-    "countries": 2
+    "url": "https://aurelia.io",
+    "rank": 911989,
+    "daily": 896.6666666666666,
+    "monthly": 26900,
+    "yearly": 322800
   },
   {
     "name": "elm",
-    "url": "https://meetup.com/topics/elm/all",
-    "members": 12955,
-    "interested": 357,
-    "meetups": 44,
-    "cities": 39,
-    "countries": 20
+    "url": "https://elm-lang.org",
+    "rank": 337442,
+    "daily": 3720,
+    "monthly": 111600,
+    "yearly": 1339200
   }
 ]

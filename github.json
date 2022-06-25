@@ -2,35 +2,35 @@
   {
     "name": "vue",
     "url": "https://github.com/vuejs/vue",
-    "stars": 197104,
-    "forks": 32369,
-    "issues": 565,
+    "stars": 197113,
+    "forks": 32368,
+    "issues": 564,
     "updated": "2022-06-25T04:44:37Z",
     "created": "2013-07-29T03:24:51Z"
   },
   {
     "name": "next",
     "url": "https://github.com/vercel/next.js",
-    "stars": 88533,
-    "forks": 18947,
-    "issues": 1188,
-    "updated": "2022-06-25T04:09:29Z",
+    "stars": 88540,
+    "forks": 18950,
+    "issues": 1187,
+    "updated": "2022-06-25T07:55:42Z",
     "created": "2016-10-05T23:32:51Z"
   },
   {
     "name": "angular",
     "url": "https://github.com/angular/angular",
-    "stars": 82165,
+    "stars": 82171,
     "forks": 21707,
-    "issues": 1240,
+    "issues": 1241,
     "updated": "2022-06-25T02:10:46Z",
     "created": "2014-09-18T16:12:01Z"
   },
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 190384,
-    "forks": 39218,
+    "stars": 190394,
+    "forks": 39220,
     "issues": 989,
     "updated": "2022-06-24T19:40:08Z",
     "created": "2013-05-24T16:15:54Z"
@@ -41,13 +41,13 @@
     "stars": 22209,
     "forks": 4289,
     "issues": 428,
-    "updated": "2022-06-24T07:17:45Z",
+    "updated": "2022-06-25T07:16:36Z",
     "created": "2011-05-25T23:39:40Z"
   },
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 59727,
+    "stars": 59735,
     "forks": 2907,
     "issues": 744,
     "updated": "2022-06-23T02:43:02Z",
