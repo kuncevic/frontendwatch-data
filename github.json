@@ -3,7 +3,7 @@
     "name": "vue",
     "url": "https://github.com/vuejs/vue",
     "stars": 197113,
-    "forks": 32368,
+    "forks": 32369,
     "issues": 564,
     "updated": "2022-06-25T04:44:37Z",
     "created": "2013-07-29T03:24:51Z"
@@ -12,7 +12,7 @@
     "name": "next",
     "url": "https://github.com/vercel/next.js",
     "stars": 88540,
-    "forks": 18950,
+    "forks": 18949,
     "issues": 1187,
     "updated": "2022-06-25T07:55:42Z",
     "created": "2016-10-05T23:32:51Z"
@@ -27,9 +27,18 @@
     "created": "2014-09-18T16:12:01Z"
   },
   {
+    "name": "react",
+    "url": "https://github.com/facebook/react",
+    "stars": 190394,
+    "forks": 39222,
+    "issues": 989,
+    "updated": "2022-06-24T19:40:08Z",
+    "created": "2013-05-24T16:15:54Z"
+  },
+  {
     "name": "ember",
     "url": "https://github.com/emberjs/ember.js",
-    "stars": 22209,
+    "stars": 22210,
     "forks": 4289,
     "issues": 428,
     "updated": "2022-06-25T07:16:36Z",

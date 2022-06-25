@@ -24,6 +24,14 @@
     "yearly": 51600000
   },
   {
+    "name": "react",
+    "url": "https://reactjs.org",
+    "rank": 11099,
+    "daily": 236666.66666666666,
+    "monthly": 7100000,
+    "yearly": 85200000
+  },
+  {
     "name": "ember",
     "url": "https://emberjs.com",
     "rank": 296297,

@@ -27,6 +27,15 @@
     "countries": 59
   },
   {
+    "name": "react",
+    "url": "https://meetup.com/topics/reactjs/all",
+    "members": 684776,
+    "interested": 11310,
+    "meetups": 660,
+    "cities": 287,
+    "countries": 64
+  },
+  {
     "name": "ember",
     "url": "https://meetup.com/topics/emberjs/all",
     "members": 0,

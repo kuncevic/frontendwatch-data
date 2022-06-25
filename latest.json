@@ -12,6 +12,10 @@
     "version": "14.0.3"
   },
   {
+    "name": "react",
+    "version": "18.2.0"
+  },
+  {
     "name": "ember",
     "version": "4.4.0"
   },
