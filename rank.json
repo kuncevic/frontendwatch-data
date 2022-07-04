@@ -8,14 +8,6 @@
     "yearly": 69600000
   },
   {
-    "name": "next",
-    "url": "https://nextjs.org",
-    "rank": 23844,
-    "daily": 96666.66666666667,
-    "monthly": 2900000,
-    "yearly": 34800000
-  },
-  {
     "name": "angular",
     "url": "https://angular.io",
     "rank": 14642,
@@ -54,13 +46,5 @@
     "daily": 896.6666666666666,
     "monthly": 26900,
     "yearly": 322800
-  },
-  {
-    "name": "elm",
-    "url": "https://elm-lang.org",
-    "rank": 337442,
-    "daily": 3720,
-    "monthly": 111600,
-    "yearly": 1339200
   }
 ]

@@ -4,12 +4,8 @@
     "version": "3.2.37"
   },
   {
-    "name": "next",
-    "version": "12.1.6"
-  },
-  {
     "name": "angular",
-    "version": "14.0.3"
+    "version": "14.0.4"
   },
   {
     "name": "react",
@@ -26,9 +22,5 @@
   {
     "name": "aurelia",
     "version": "1.4.1"
-  },
-  {
-    "name": "elm",
-    "version": "0.19.1-5"
   }
 ]
