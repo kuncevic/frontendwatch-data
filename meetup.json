@@ -11,17 +11,17 @@
   {
     "name": "angular",
     "url": "https://meetup.com/topics/angularjs/all",
-    "members": 628836,
-    "interested": 19576,
-    "meetups": 579,
-    "cities": 302,
+    "members": 628592,
+    "interested": 19575,
+    "meetups": 578,
+    "cities": 301,
     "countries": 59
   },
   {
     "name": "react",
     "url": "https://meetup.com/topics/reactjs/all",
-    "members": 687151,
-    "interested": 11384,
+    "members": 687284,
+    "interested": 11388,
     "meetups": 667,
     "cities": 287,
     "countries": 65
@@ -47,7 +47,7 @@
   {
     "name": "aurelia",
     "url": "https://meetup.com/topics/aurelia/all",
-    "members": 2828,
+    "members": 2829,
     "interested": 40,
     "meetups": 2,
     "cities": 2,

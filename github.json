@@ -2,35 +2,35 @@
   {
     "name": "vue",
     "url": "https://github.com/vuejs/core",
-    "stars": 31069,
-    "forks": 5549,
-    "issues": 603,
-    "updated": "2022-07-04T03:50:02Z",
+    "stars": 31098,
+    "forks": 5560,
+    "issues": 605,
+    "updated": "2022-07-04T15:05:54Z",
     "created": "2018-06-12T13:49:36Z"
   },
   {
     "name": "angular",
     "url": "https://github.com/angular/angular",
-    "stars": 82458,
-    "forks": 21751,
-    "issues": 1231,
-    "updated": "2022-07-04T07:05:48Z",
+    "stars": 82480,
+    "forks": 21757,
+    "issues": 1234,
+    "updated": "2022-07-05T03:51:41Z",
     "created": "2014-09-18T16:12:01Z"
   },
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 190799,
-    "forks": 39344,
-    "issues": 996,
-    "updated": "2022-07-03T18:03:23Z",
+    "stars": 190838,
+    "forks": 39363,
+    "issues": 999,
+    "updated": "2022-07-04T22:52:31Z",
     "created": "2013-05-24T16:15:54Z"
   },
   {
     "name": "ember",
     "url": "https://github.com/emberjs/ember.js",
-    "stars": 22221,
-    "forks": 4287,
+    "stars": 22225,
+    "forks": 4286,
     "issues": 429,
     "updated": "2022-07-04T07:18:52Z",
     "created": "2011-05-25T23:39:40Z"
@@ -38,10 +38,10 @@
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 60141,
-    "forks": 2924,
+    "stars": 60259,
+    "forks": 2929,
     "issues": 749,
-    "updated": "2022-07-04T03:03:24Z",
+    "updated": "2022-07-04T14:58:16Z",
     "created": "2016-11-20T18:13:05Z"
   },
   {
