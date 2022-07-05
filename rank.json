@@ -46,5 +46,45 @@
     "daily": 896.6666666666666,
     "monthly": 26900,
     "yearly": 322800
+  },
+  {
+    "name": "next",
+    "url": "https://nextjs.org",
+    "rank": 23844,
+    "daily": 96666.66666666667,
+    "monthly": 2900000,
+    "yearly": 34800000
+  },
+  {
+    "name": "elm",
+    "url": "https://elm-lang.org",
+    "rank": 337442,
+    "daily": 3720,
+    "monthly": 111600,
+    "yearly": 1339200
+  },
+  {
+    "name": "typescript",
+    "url": "https://typescriptlang.org",
+    "rank": 23674,
+    "daily": 86666.66666666667,
+    "monthly": 2600000,
+    "yearly": 31200000
+  },
+  {
+    "name": "flow",
+    "url": "https://flow.org",
+    "rank": 331230,
+    "daily": 2500,
+    "monthly": 75000,
+    "yearly": 900000
+  },
+  {
+    "name": "rxjs",
+    "url": "https://rxjs.dev",
+    "rank": 112049,
+    "daily": 15590,
+    "monthly": 467700,
+    "yearly": 5612400
   }
 ]

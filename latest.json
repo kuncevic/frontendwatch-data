@@ -22,5 +22,25 @@
   {
     "name": "aurelia",
     "version": "1.4.1"
+  },
+  {
+    "name": "next",
+    "version": "12.2.0"
+  },
+  {
+    "name": "elm",
+    "version": "0.19.1-5"
+  },
+  {
+    "name": "typescript",
+    "version": "4.7.4"
+  },
+  {
+    "name": "flow",
+    "version": "0.181.2"
+  },
+  {
+    "name": "rxjs",
+    "version": "7.5.5"
   }
 ]

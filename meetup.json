@@ -47,10 +47,55 @@
   {
     "name": "aurelia",
     "url": "https://meetup.com/topics/aurelia/all",
-    "members": 2829,
+    "members": 2828,
     "interested": 40,
     "meetups": 2,
     "cities": 2,
     "countries": 2
+  },
+  {
+    "name": "next",
+    "url": "https://meetup.com/topics/nextjs/all",
+    "members": 7352,
+    "interested": 108,
+    "meetups": 18,
+    "cities": 17,
+    "countries": 12
+  },
+  {
+    "name": "elm",
+    "url": "https://meetup.com/topics/elm/all",
+    "members": 12543,
+    "interested": 357,
+    "meetups": 42,
+    "cities": 37,
+    "countries": 19
+  },
+  {
+    "name": "typescript",
+    "url": "https://meetup.com/topics/typescript/all",
+    "members": 142037,
+    "interested": 2781,
+    "meetups": 244,
+    "cities": 157,
+    "countries": 43
+  },
+  {
+    "name": "flow",
+    "url": "https://meetup.com/topics/flow/all",
+    "members": 11758,
+    "interested": 277,
+    "meetups": 40,
+    "cities": 35,
+    "countries": 15
+  },
+  {
+    "name": "rxjs",
+    "url": "https://meetup.com/topics/rxjs/all",
+    "members": 7590,
+    "interested": 91,
+    "meetups": 11,
+    "cities": 11,
+    "countries": 8
   }
 ]
