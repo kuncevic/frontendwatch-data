@@ -46,5 +46,13 @@
     "daily": 896.6666666666666,
     "monthly": 26900,
     "yearly": 322800
+  },
+  {
+    "name": "elm",
+    "url": "https://elm-lang.org",
+    "rank": 337442,
+    "daily": 3720,
+    "monthly": 111600,
+    "yearly": 1339200
   }
 ]

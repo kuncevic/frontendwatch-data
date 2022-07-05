@@ -2,7 +2,7 @@
   {
     "name": "vue",
     "url": "https://github.com/vuejs/core",
-    "stars": 31098,
+    "stars": 31100,
     "forks": 5560,
     "issues": 605,
     "updated": "2022-07-04T15:05:54Z",
@@ -20,7 +20,7 @@
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 190838,
+    "stars": 190840,
     "forks": 39363,
     "issues": 999,
     "updated": "2022-07-04T22:52:31Z",
@@ -38,7 +38,7 @@
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 60259,
+    "stars": 60267,
     "forks": 2929,
     "issues": 749,
     "updated": "2022-07-04T14:58:16Z",
@@ -52,5 +52,14 @@
     "issues": 51,
     "updated": "2022-06-16T11:04:57Z",
     "created": "2014-12-10T19:22:29Z"
+  },
+  {
+    "name": "elm",
+    "url": "https://github.com/elm/compiler",
+    "stars": 6875,
+    "forks": 629,
+    "issues": 281,
+    "updated": "2022-05-26T12:57:25Z",
+    "created": "2012-04-19T06:24:43Z"
   }
 ]
