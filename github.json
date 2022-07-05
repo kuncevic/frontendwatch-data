@@ -1,65 +1,56 @@
 [
   {
     "name": "vue",
-    "url": "https://github.com/vuejs/vue",
-    "stars": 196577,
-    "forks": 32250,
-    "issues": 558,
-    "updated": "2022-06-03T21:25:30Z",
-    "created": "2013-07-29T03:24:51Z"
+    "url": "https://github.com/vuejs/core",
+    "stars": 31098,
+    "forks": 5560,
+    "issues": 605,
+    "updated": "2022-07-04T15:05:54Z",
+    "created": "2018-06-12T13:49:36Z"
   },
   {
     "name": "angular",
     "url": "https://github.com/angular/angular",
-    "stars": 81833,
-    "forks": 21568,
-    "issues": 1356,
-    "updated": "2022-06-05T09:10:34Z",
+    "stars": 82480,
+    "forks": 21757,
+    "issues": 1234,
+    "updated": "2022-07-05T03:51:41Z",
     "created": "2014-09-18T16:12:01Z"
   },
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 189080,
-    "forks": 38987,
-    "issues": 954,
-    "updated": "2022-06-03T22:04:34Z",
+    "stars": 190838,
+    "forks": 39363,
+    "issues": 999,
+    "updated": "2022-07-04T22:52:31Z",
     "created": "2013-05-24T16:15:54Z"
   },
   {
     "name": "ember",
     "url": "https://github.com/emberjs/ember.js",
-    "stars": 22200,
+    "stars": 22225,
     "forks": 4286,
     "issues": 429,
-    "updated": "2022-06-05T07:33:54Z",
+    "updated": "2022-07-04T07:18:52Z",
     "created": "2011-05-25T23:39:40Z"
   },
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 58812,
-    "forks": 2881,
-    "issues": 727,
-    "updated": "2022-06-03T14:11:30Z",
+    "stars": 60259,
+    "forks": 2929,
+    "issues": 749,
+    "updated": "2022-07-04T14:58:16Z",
     "created": "2016-11-20T18:13:05Z"
   },
   {
     "name": "aurelia",
     "url": "https://github.com/aurelia/framework",
-    "stars": 11708,
-    "forks": 683,
-    "issues": 50,
-    "updated": "2022-04-12T14:07:31Z",
+    "stars": 11710,
+    "forks": 684,
+    "issues": 51,
+    "updated": "2022-06-16T11:04:57Z",
     "created": "2014-12-10T19:22:29Z"
-  },
-  {
-    "name": "elm",
-    "url": "https://github.com/elm/compiler",
-    "stars": 6858,
-    "forks": 628,
-    "issues": 278,
-    "updated": "2022-05-26T12:57:25Z",
-    "created": "2012-04-19T06:24:43Z"
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
     "name": "vue",
-    "version": "3.2.36"
+    "version": "3.2.37"
   },
   {
     "name": "angular",
-    "version": "14.0.0"
+    "version": "14.0.4"
   },
   {
     "name": "react",
-    "version": "18.1.0"
+    "version": "18.2.0"
   },
   {
     "name": "ember",
@@ -22,9 +22,5 @@
   {
     "name": "aurelia",
     "version": "1.4.1"
-  },
-  {
-    "name": "elm",
-    "version": "0.19.1-5"
   }
 ]
