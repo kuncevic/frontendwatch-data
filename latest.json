@@ -5,7 +5,7 @@
   },
   {
     "name": "angular",
-    "version": "14.0.4"
+    "version": "14.1.2"
   },
   {
     "name": "react",
@@ -13,11 +13,11 @@
   },
   {
     "name": "ember",
-    "version": "4.4.0"
+    "version": "4.6.0"
   },
   {
     "name": "svelte",
-    "version": "3.48.0"
+    "version": "3.49.0"
   },
   {
     "name": "aurelia",
@@ -25,7 +25,7 @@
   },
   {
     "name": "next",
-    "version": "12.2.0"
+    "version": "12.2.5"
   },
   {
     "name": "elm",
@@ -37,10 +37,10 @@
   },
   {
     "name": "flow",
-    "version": "0.181.2"
+    "version": "0.184.0"
   },
   {
     "name": "rxjs",
-    "version": "7.5.5"
+    "version": "7.5.6"
   }
 ]
