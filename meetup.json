@@ -63,6 +63,15 @@
     "countries": 11
   },
   {
+    "name": "solid",
+    "url": "https://meetup.com/topics/solid/all",
+    "members": 0,
+    "interested": 0,
+    "meetups": 0,
+    "cities": 0,
+    "countries": 0
+  },
+  {
     "name": "elm",
     "url": "https://meetup.com/topics/elm/all",
     "members": 11842,

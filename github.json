@@ -2,7 +2,7 @@
   {
     "name": "vue",
     "url": "https://github.com/vuejs/core",
-    "stars": 33032,
+    "stars": 33036,
     "forks": 5934,
     "issues": 783,
     "updated": "2022-10-11T21:50:55Z",
@@ -12,7 +12,7 @@
     "name": "angular",
     "url": "https://github.com/angular/angular",
     "stars": 84239,
-    "forks": 22312,
+    "forks": 22313,
     "issues": 1216,
     "updated": "2022-10-11T23:42:47Z",
     "created": "2014-09-18T16:12:01Z"
@@ -20,8 +20,8 @@
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 195920,
-    "forks": 40579,
+    "stars": 195923,
+    "forks": 40580,
     "issues": 1121,
     "updated": "2022-10-12T00:51:16Z",
     "created": "2013-05-24T16:15:54Z"
@@ -38,7 +38,7 @@
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 62583,
+    "stars": 62585,
     "forks": 3052,
     "issues": 794,
     "updated": "2022-10-11T23:23:31Z",
@@ -57,10 +57,19 @@
     "name": "next",
     "url": "https://github.com/vercel/next.js",
     "stars": 93723,
-    "forks": 20608,
+    "forks": 20609,
     "issues": 1359,
     "updated": "2022-10-12T01:12:03Z",
     "created": "2016-10-05T23:32:51Z"
+  },
+  {
+    "name": "solid",
+    "url": "https://github.com/solidjs/solid",
+    "stars": 22648,
+    "forks": 591,
+    "issues": 23,
+    "updated": "2022-10-07T11:58:39Z",
+    "created": "2018-04-24T16:36:27Z"
   },
   {
     "name": "elm",

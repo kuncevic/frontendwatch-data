@@ -28,6 +28,10 @@
     "version": "12.3.1"
   },
   {
+    "name": "solid",
+    "version": "1.5.7"
+  },
+  {
     "name": "elm",
     "version": "0.19.1-5"
   },

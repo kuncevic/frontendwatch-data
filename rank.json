@@ -1,90 +1,86 @@
 [
   {
+    "name": "react",
+    "yearly": 85200000,
+    "monthly": 7100000,
+    "daily": 236666.66666666666,
+    "rank": 11099
+  },
+  {
     "name": "vue",
-    "url": "https://vuejs.org",
-    "rank": 5830,
-    "daily": 193333.33333333334,
+    "yearly": 69600000,
     "monthly": 5800000,
-    "yearly": 69600000
+    "daily": 193333.33333333334,
+    "rank": 5830
   },
   {
     "name": "angular",
-    "url": "https://angular.io",
-    "rank": 14642,
-    "daily": 143333.33333333334,
+    "yearly": 51600000,
     "monthly": 4300000,
-    "yearly": 51600000
-  },
-  {
-    "name": "react",
-    "url": "https://reactjs.org",
-    "rank": 11099,
-    "daily": 236666.66666666666,
-    "monthly": 7100000,
-    "yearly": 85200000
-  },
-  {
-    "name": "ember",
-    "url": "https://emberjs.com",
-    "rank": 296297,
-    "daily": 4733.333333333333,
-    "monthly": 142000,
-    "yearly": 1704000
-  },
-  {
-    "name": "svelte",
-    "url": "https://svelte.dev",
-    "rank": 53771,
-    "daily": 31523.333333333332,
-    "monthly": 945700,
-    "yearly": 11348400
-  },
-  {
-    "name": "aurelia",
-    "url": "https://aurelia.io",
-    "rank": 911989,
-    "daily": 896.6666666666666,
-    "monthly": 26900,
-    "yearly": 322800
+    "daily": 143333.33333333334,
+    "rank": 14642
   },
   {
     "name": "next",
-    "url": "https://nextjs.org",
-    "rank": 23844,
-    "daily": 96666.66666666667,
+    "yearly": 34800000,
     "monthly": 2900000,
-    "yearly": 34800000
+    "daily": 96666.66666666667,
+    "rank": 23844
+  },
+  {
+    "name": "svelte",
+    "yearly": 11348400,
+    "monthly": 945700,
+    "daily": 31523.333333333332,
+    "rank": 53771
+  },
+  {
+    "name": "ember",
+    "yearly": 1704000,
+    "monthly": 142000,
+    "daily": 4733.333333333333,
+    "rank": 296297
   },
   {
     "name": "elm",
-    "url": "https://elm-lang.org",
-    "rank": 337442,
-    "daily": 3720,
+    "yearly": 1339200,
     "monthly": 111600,
-    "yearly": 1339200
+    "daily": 3720,
+    "rank": 337442
+  },
+  {
+    "name": "aurelia",
+    "yearly": 322800,
+    "monthly": 26900,
+    "daily": 896.6666666666666,
+    "rank": 911989
   },
   {
     "name": "typescript",
-    "url": "https://typescriptlang.org",
-    "rank": 23674,
-    "daily": 86666.66666666667,
+    "yearly": 31200000,
     "monthly": 2600000,
-    "yearly": 31200000
+    "daily": 86666.66666666667,
+    "rank": 23674
   },
   {
     "name": "flow",
-    "url": "https://flow.org",
-    "rank": 331230,
-    "daily": 2500,
+    "yearly": 900000,
     "monthly": 75000,
-    "yearly": 900000
+    "daily": 2500,
+    "rank": 331230
   },
   {
     "name": "rxjs",
-    "url": "https://rxjs.dev",
-    "rank": 112049,
-    "daily": 15590,
+    "yearly": 5612400,
     "monthly": 467700,
-    "yearly": 5612400
+    "daily": 15590,
+    "rank": 112049
+  },
+  {
+    "name": "solid",
+    "yearly": 2205600,
+    "monthly": 183800,
+    "daily": 6126.666666666667,
+    "rank": 226987
   }
 ]
