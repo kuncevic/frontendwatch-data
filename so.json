@@ -1,74 +1,93 @@
 [
   {
     "name": "vue",
-    "total": 98182,
+    "total": 100152,
+    "tag": "vue",
     "featured": 2,
-    "noAnswers": 19368
+    "noAnswers": 19776
   },
   {
     "name": "angular",
-    "total": 285459,
+    "total": 288445,
+    "tag": "angular",
     "featured": 9,
-    "noAnswers": 53145
+    "noAnswers": 53476
   },
   {
     "name": "react",
-    "total": 420180,
-    "featured": 21,
-    "noAnswers": 88490
+    "total": 431888,
+    "tag": "react",
+    "featured": 18,
+    "noAnswers": 91279
   },
   {
     "name": "ember",
-    "total": 23916,
+    "total": 23937,
+    "tag": "ember",
     "featured": 0,
-    "noAnswers": 2645
+    "noAnswers": 2649
   },
   {
     "name": "svelte",
-    "total": 3797,
+    "total": 4012,
+    "tag": "svelte",
     "featured": 1,
-    "noAnswers": 645
+    "noAnswers": 680
   },
   {
     "name": "aurelia",
-    "total": 3412,
+    "total": 3409,
+    "tag": "aurelia",
     "featured": 0,
-    "noAnswers": 484
+    "noAnswers": 478
   },
   {
     "name": "next",
-    "total": 22842,
-    "featured": 5,
-    "noAnswers": 7493
+    "total": 24862,
+    "tag": "next.js",
+    "featured": 4,
+    "noAnswers": 8235
   },
   {
     "name": "solid",
-    "total": 112,
+    "total": 121,
+    "tag": "solid-js",
     "featured": 0,
-    "noAnswers": 17
+    "noAnswers": 15
   },
   {
-    "name": "elm",
-    "total": 1854,
+    "name": "qwik",
+    "total": 19,
+    "tag": "qwik",
     "featured": 0,
-    "noAnswers": 104
+    "noAnswers": 7
   },
   {
     "name": "typescript",
-    "total": 197059,
-    "featured": 14,
-    "noAnswers": 36441
+    "total": 202591,
+    "tag": "typescript",
+    "featured": 8,
+    "noAnswers": 37534
   },
   {
     "name": "flow",
-    "total": 2370,
+    "total": 2374,
+    "tag": "flowtype",
     "featured": 0,
     "noAnswers": 381
   },
   {
     "name": "rxjs",
-    "total": 19613,
-    "featured": 0,
-    "noAnswers": 1846
+    "total": 19879,
+    "tag": "rxjs",
+    "featured": 1,
+    "noAnswers": 1853
+  },
+  {
+    "name": "jquery",
+    "total": 1035087,
+    "tag": "jquery",
+    "featured": 3,
+    "noAnswers": 108114
   }
 ]
