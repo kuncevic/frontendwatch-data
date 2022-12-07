@@ -32,10 +32,6 @@
     "version": "1.6.3"
   },
   {
-    "name": "solid",
-    "version": "1.6.3"
-  },
-  {
     "name": "qwik",
     "version": "0.15.2"
   },
@@ -46,6 +42,10 @@
   {
     "name": "flow",
     "version": "0.194.0"
+  },
+  {
+    "name": "babel",
+    "version": "4.9.3"
   },
   {
     "name": "rxjs",

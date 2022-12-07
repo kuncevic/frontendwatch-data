@@ -97,10 +97,26 @@
   },
   {
     "name": "qwik",
-    "yearly": 4644,
-    "monthly": 387,
-    "daily": 12.9,
+    "yearly": 4644000,
+    "monthly": 387000,
+    "daily": 12900,
     "rank": 70392,
     "url": "qwik.builder.io"
+  },
+  {
+    "name": "babel",
+    "yearly": 4510800,
+    "monthly": 375900,
+    "daily": 12530,
+    "rank": 119600,
+    "url": "babeljs.io"
+  },
+  {
+    "name": "jquery",
+    "yearly": 28800000,
+    "monthly": 2400000,
+    "daily": 80000,
+    "rank": 34771,
+    "url": "jquery.com"
   }
 ]
