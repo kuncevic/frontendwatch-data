@@ -1,44 +1,100 @@
 [
   {
     "name": "vue",
-    "total": 95053,
-    "featured": 3,
-    "noAnswers": 18919
+    "total": 104392,
+    "tag": "vue",
+    "featured": 2,
+    "noAnswers": 20372
   },
   {
     "name": "angular",
-    "total": 280212,
-    "featured": 5,
-    "noAnswers": 52982
+    "total": 297129,
+    "tag": "angular",
+    "featured": 2,
+    "noAnswers": 55093
   },
   {
     "name": "react",
-    "total": 399228,
-    "featured": 16,
-    "noAnswers": 83593
+    "total": 461565,
+    "tag": "react",
+    "featured": 12,
+    "noAnswers": 95909
   },
   {
     "name": "ember",
-    "total": 23874,
+    "total": 23963,
+    "tag": "ember",
     "featured": 0,
-    "noAnswers": 2643
+    "noAnswers": 2646
   },
   {
     "name": "svelte",
-    "total": 3307,
-    "featured": 1,
-    "noAnswers": 574
+    "total": 5036,
+    "tag": "svelte",
+    "featured": 0,
+    "noAnswers": 906
   },
   {
     "name": "aurelia",
     "total": 3402,
+    "tag": "aurelia",
     "featured": 0,
-    "noAnswers": 480
+    "noAnswers": 466
   },
   {
-    "name": "elm",
-    "total": 1840,
+    "name": "next",
+    "total": 32578,
+    "tag": "next.js",
+    "featured": 3,
+    "noAnswers": 11261
+  },
+  {
+    "name": "solid",
+    "total": 205,
+    "tag": "solid-js",
     "featured": 0,
-    "noAnswers": 105
+    "noAnswers": 27
+  },
+  {
+    "name": "qwik",
+    "total": 74,
+    "tag": "qwik",
+    "featured": 0,
+    "noAnswers": 15
+  },
+  {
+    "name": "typescript",
+    "total": 217931,
+    "tag": "typescript",
+    "featured": 7,
+    "noAnswers": 40638
+  },
+  {
+    "name": "flow",
+    "total": 2376,
+    "tag": "flowtype",
+    "featured": 0,
+    "noAnswers": 374
+  },
+  {
+    "name": "babel",
+    "total": 9674,
+    "tag": "babeljs",
+    "featured": 0,
+    "noAnswers": 2494
+  },
+  {
+    "name": "rxjs",
+    "total": 20544,
+    "tag": "rxjs",
+    "featured": 0,
+    "noAnswers": 1945
+  },
+  {
+    "name": "jquery",
+    "total": 1037603,
+    "tag": "jquery",
+    "featured": 1,
+    "noAnswers": 107037
   }
 ]

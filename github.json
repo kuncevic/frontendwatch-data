@@ -2,64 +2,127 @@
   {
     "name": "vue",
     "url": "https://github.com/vuejs/core",
-    "stars": 31100,
-    "forks": 5560,
-    "issues": 605,
-    "updated": "2022-07-04T15:05:54Z",
+    "stars": 38539,
+    "forks": 7055,
+    "issues": 1097,
+    "updated": "2023-07-02T10:44:49Z",
     "created": "2018-06-12T13:49:36Z"
   },
   {
     "name": "angular",
     "url": "https://github.com/angular/angular",
-    "stars": 82480,
-    "forks": 21757,
-    "issues": 1234,
-    "updated": "2022-07-05T03:51:41Z",
+    "stars": 89021,
+    "forks": 23855,
+    "issues": 1468,
+    "updated": "2023-07-02T08:53:15Z",
     "created": "2014-09-18T16:12:01Z"
   },
   {
     "name": "react",
     "url": "https://github.com/facebook/react",
-    "stars": 190840,
-    "forks": 39363,
-    "issues": 999,
-    "updated": "2022-07-04T22:52:31Z",
+    "stars": 209814,
+    "forks": 43911,
+    "issues": 1354,
+    "updated": "2023-07-02T05:14:30Z",
     "created": "2013-05-24T16:15:54Z"
   },
   {
     "name": "ember",
     "url": "https://github.com/emberjs/ember.js",
-    "stars": 22225,
-    "forks": 4286,
-    "issues": 429,
-    "updated": "2022-07-04T07:18:52Z",
+    "stars": 22439,
+    "forks": 4305,
+    "issues": 417,
+    "updated": "2023-07-02T07:16:38Z",
     "created": "2011-05-25T23:39:40Z"
   },
   {
     "name": "svelte",
     "url": "https://github.com/sveltejs/svelte",
-    "stars": 60267,
-    "forks": 2929,
-    "issues": 749,
-    "updated": "2022-07-04T14:58:16Z",
+    "stars": 70503,
+    "forks": 3898,
+    "issues": 839,
+    "updated": "2023-07-02T09:45:52Z",
     "created": "2016-11-20T18:13:05Z"
   },
   {
     "name": "aurelia",
     "url": "https://github.com/aurelia/framework",
-    "stars": 11710,
-    "forks": 684,
-    "issues": 51,
-    "updated": "2022-06-16T11:04:57Z",
+    "stars": 11750,
+    "forks": 676,
+    "issues": 57,
+    "updated": "2023-01-27T11:32:58Z",
     "created": "2014-12-10T19:22:29Z"
   },
   {
-    "name": "elm",
-    "url": "https://github.com/elm/compiler",
-    "stars": 6875,
-    "forks": 629,
-    "issues": 281,
-    "updated": "2022-05-26T12:57:25Z",
-    "created": "2012-04-19T06:24:43Z"
+    "name": "next",
+    "url": "https://github.com/vercel/next.js",
+    "stars": 108488,
+    "forks": 24273,
+    "issues": 2098,
+    "updated": "2023-07-02T05:41:28Z",
+    "created": "2016-10-05T23:32:51Z"
+  },
+  {
+    "name": "solid",
+    "url": "https://github.com/solidjs/solid",
+    "stars": 28199,
+    "forks": 775,
+    "issues": 44,
+    "updated": "2023-07-01T21:55:38Z",
+    "created": "2018-04-24T16:36:27Z"
+  },
+  {
+    "name": "qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "stars": 18163,
+    "forks": 986,
+    "issues": 390,
+    "updated": "2023-07-02T10:40:44Z",
+    "created": "2021-05-19T15:33:32Z"
+  },
+  {
+    "name": "typescript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "stars": 92382,
+    "forks": 11921,
+    "issues": 6195,
+    "updated": "2023-07-02T05:46:00Z",
+    "created": "2014-06-17T15:28:39Z"
+  },
+  {
+    "name": "flow",
+    "url": "https://github.com/facebook/flow",
+    "stars": 21990,
+    "forks": 1881,
+    "issues": 1644,
+    "updated": "2023-06-30T23:59:21Z",
+    "created": "2014-10-28T17:17:45Z"
+  },
+  {
+    "name": "babel",
+    "url": "https://github.com/babel/babel",
+    "stars": 42343,
+    "forks": 5666,
+    "issues": 826,
+    "updated": "2023-07-01T03:22:48Z",
+    "created": "2014-09-28T13:38:23Z"
+  },
+  {
+    "name": "rxjs",
+    "url": "https://github.com/ReactiveX/rxjs",
+    "stars": 29089,
+    "forks": 2970,
+    "issues": 249,
+    "updated": "2023-06-28T18:57:48Z",
+    "created": "2015-03-15T06:17:10Z"
+  },
+  {
+    "name": "jquery",
+    "url": "https://github.com/jquery/jquery",
+    "stars": 57609,
+    "forks": 20828,
+    "issues": 88,
+    "updated": "2023-07-01T00:28:52Z",
+    "created": "2009-04-03T15:20:14Z"
   }
 ]
