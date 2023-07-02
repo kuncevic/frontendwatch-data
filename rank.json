@@ -4,119 +4,83 @@
     "yearly": 85200000,
     "monthly": 7100000,
     "daily": 236666.66666666666,
-    "rank": 11099,
-    "url": "reactjs.org"
+    "rank": 11099
   },
   {
     "name": "vue",
     "yearly": 69600000,
     "monthly": 5800000,
     "daily": 193333.33333333334,
-    "rank": 5830,
-    "url": "vuejs.org"
+    "rank": 5830
   },
   {
     "name": "angular",
     "yearly": 51600000,
     "monthly": 4300000,
     "daily": 143333.33333333334,
-    "rank": 14642,
-    "url": "angular.io"
+    "rank": 14642
   },
   {
     "name": "next",
     "yearly": 34800000,
     "monthly": 2900000,
     "daily": 96666.66666666667,
-    "rank": 23844,
-    "url": "nextjs.org"
+    "rank": 23844
   },
   {
     "name": "svelte",
     "yearly": 11348400,
     "monthly": 945700,
     "daily": 31523.333333333332,
-    "rank": 53771,
-    "url": "svelte.dev"
+    "rank": 53771
   },
   {
     "name": "ember",
     "yearly": 1704000,
     "monthly": 142000,
     "daily": 4733.333333333333,
-    "rank": 296297,
-    "url": "emberjs.com"
+    "rank": 296297
   },
   {
     "name": "elm",
     "yearly": 1339200,
     "monthly": 111600,
     "daily": 3720,
-    "rank": 337442,
-    "url": "elm-lang.org"
+    "rank": 337442
   },
   {
     "name": "aurelia",
     "yearly": 322800,
     "monthly": 26900,
     "daily": 896.6666666666666,
-    "rank": 911989,
-    "url": "aurelia.io"
+    "rank": 911989
   },
   {
     "name": "typescript",
     "yearly": 31200000,
     "monthly": 2600000,
     "daily": 86666.66666666667,
-    "rank": 23674,
-    "url": "typescript.org"
+    "rank": 23674
   },
   {
     "name": "flow",
     "yearly": 900000,
     "monthly": 75000,
     "daily": 2500,
-    "rank": 331230,
-    "url": "flow.org"
+    "rank": 331230
   },
   {
     "name": "rxjs",
     "yearly": 5612400,
     "monthly": 467700,
     "daily": 15590,
-    "rank": 112049,
-    "url": "rxjs.dev"
+    "rank": 112049
   },
   {
     "name": "solid",
     "yearly": 2205600,
     "monthly": 183800,
     "daily": 6126.666666666667,
-    "rank": 226987,
-    "url": "solidjs.com"
-  },
-  {
-    "name": "qwik",
-    "yearly": 4644000,
-    "monthly": 387000,
-    "daily": 12900,
-    "rank": 70392,
-    "url": "qwik.builder.io"
-  },
-  {
-    "name": "babel",
-    "yearly": 4510800,
-    "monthly": 375900,
-    "daily": 12530,
-    "rank": 119600,
-    "url": "babeljs.io"
-  },
-  {
-    "name": "jquery",
-    "yearly": 28800000,
-    "monthly": 2400000,
-    "daily": 80000,
-    "rank": 34771,
-    "url": "jquery.com"
+    "rank": 226987
   }
 ]

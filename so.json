@@ -1,100 +1,100 @@
 [
   {
     "name": "vue",
-    "total": 100113,
+    "total": 104392,
     "tag": "vue",
     "featured": 2,
-    "noAnswers": 19868
+    "noAnswers": 20372
   },
   {
     "name": "angular",
-    "total": 288355,
+    "total": 297129,
     "tag": "angular",
-    "featured": 11,
-    "noAnswers": 53606
+    "featured": 2,
+    "noAnswers": 55093
   },
   {
     "name": "react",
-    "total": 431700,
+    "total": 461565,
     "tag": "react",
-    "featured": 20,
-    "noAnswers": 91317
+    "featured": 12,
+    "noAnswers": 95909
   },
   {
     "name": "ember",
-    "total": 23935,
+    "total": 23963,
     "tag": "ember",
     "featured": 0,
-    "noAnswers": 2649
+    "noAnswers": 2646
   },
   {
     "name": "svelte",
-    "total": 4014,
+    "total": 5036,
     "tag": "svelte",
-    "featured": 1,
-    "noAnswers": 675
+    "featured": 0,
+    "noAnswers": 906
   },
   {
     "name": "aurelia",
-    "total": 3409,
+    "total": 3402,
     "tag": "aurelia",
     "featured": 0,
-    "noAnswers": 478
+    "noAnswers": 466
   },
   {
     "name": "next",
-    "total": 24875,
+    "total": 32578,
     "tag": "next.js",
-    "featured": 5,
-    "noAnswers": 8230
+    "featured": 3,
+    "noAnswers": 11261
   },
   {
     "name": "solid",
-    "total": 121,
+    "total": 205,
     "tag": "solid-js",
+    "featured": 0,
+    "noAnswers": 27
+  },
+  {
+    "name": "qwik",
+    "total": 74,
+    "tag": "qwik",
     "featured": 0,
     "noAnswers": 15
   },
   {
-    "name": "qwik",
-    "total": 19,
-    "tag": "qwik",
-    "featured": 0,
-    "noAnswers": 7
-  },
-  {
     "name": "typescript",
-    "total": 202688,
+    "total": 217931,
     "tag": "typescript",
-    "featured": 8,
-    "noAnswers": 37556
+    "featured": 7,
+    "noAnswers": 40638
   },
   {
     "name": "flow",
-    "total": 2374,
+    "total": 2376,
     "tag": "flowtype",
     "featured": 0,
-    "noAnswers": 381
+    "noAnswers": 374
   },
   {
     "name": "babel",
-    "total": 202688,
-    "tag": "typescript",
-    "featured": 8,
-    "noAnswers": 37556
+    "total": 9674,
+    "tag": "babeljs",
+    "featured": 0,
+    "noAnswers": 2494
   },
   {
     "name": "rxjs",
-    "total": 19878,
+    "total": 20544,
     "tag": "rxjs",
-    "featured": 1,
-    "noAnswers": 1855
+    "featured": 0,
+    "noAnswers": 1945
   },
   {
     "name": "jquery",
-    "total": 1034996,
+    "total": 1037603,
     "tag": "jquery",
-    "featured": 4,
-    "noAnswers": 107946
+    "featured": 1,
+    "noAnswers": 107037
   }
 ]
