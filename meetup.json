@@ -124,5 +124,14 @@
     "meetups": 400,
     "cities": 238,
     "countries": 58
+  },
+  {
+    "name": "elm",
+    "url": "https://meetup.com/topics/elm/all",
+    "members": 10786,
+    "interested": 348,
+    "meetups": 35,
+    "cities": 32,
+    "countries": 18
   }
 ]

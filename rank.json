@@ -82,5 +82,26 @@
     "monthly": 183800,
     "daily": 6126.666666666667,
     "rank": 226987
+  },
+  {
+    "name": "babel",
+    "yearly": 4510800,
+    "monthly": 375900,
+    "daily": 12530,
+    "rank": 119600
+  },
+  {
+    "name": "qwik",
+    "yearly": 4644000,
+    "monthly": 387000,
+    "daily": 12900,
+    "rank": 70392
+  },
+  {
+    "name": "jquery",
+    "yearly": 28800000,
+    "monthly": 2400000,
+    "daily": 80000,
+    "rank": 34771
   }
 ]
