@@ -1,114 +1,114 @@
 [
   {
     "name": "react",
-    "yearly": 85200000,
-    "monthly": 7100000,
-    "daily": 236666.66666666666,
-    "rank": 11099
+    "yearly": 5500000,
+    "monthly": 454400,
+    "daily": 15100,
+    "rank": 127500
   },
   {
     "name": "vue",
-    "yearly": 69600000,
-    "monthly": 5800000,
-    "daily": 193333.33333333334,
-    "rank": 5830
+    "yearly": 14400000,
+    "monthly": 1200000,
+    "daily": 40000,
+    "rank": 41100
   },
   {
     "name": "angular",
-    "yearly": 51600000,
-    "monthly": 4300000,
-    "daily": 143333.33333333334,
-    "rank": 14642
+    "yearly": 15600000,
+    "monthly": 1300000,
+    "daily": 43300,
+    "rank": 40100
   },
   {
     "name": "next",
-    "yearly": 34800000,
-    "monthly": 2900000,
-    "daily": 96666.66666666667,
-    "rank": 23844
+    "yearly": 27600000,
+    "monthly": 2300000,
+    "daily": 76700,
+    "rank": 26300
   },
   {
     "name": "svelte",
-    "yearly": 11348400,
-    "monthly": 945700,
-    "daily": 31523.333333333332,
-    "rank": 53771
+    "yearly": 4700000,
+    "monthly": 391200,
+    "daily": 13000,
+    "rank": 107500
   },
   {
     "name": "ember",
-    "yearly": 1704000,
-    "monthly": 142000,
-    "daily": 4733.333333333333,
-    "rank": 296297
+    "yearly": 798000,
+    "monthly": 66500,
+    "daily": 2200,
+    "rank": 460600
   },
   {
     "name": "elm",
-    "yearly": 1339200,
-    "monthly": 111600,
-    "daily": 3720,
-    "rank": 337442
+    "yearly": 876000,
+    "monthly": 73000,
+    "daily": 2400,
+    "rank": 485200
   },
   {
     "name": "aurelia",
-    "yearly": 322800,
-    "monthly": 26900,
-    "daily": 896.6666666666666,
-    "rank": 911989
+    "yearly": 361200,
+    "monthly": 30100,
+    "daily": 1000,
+    "rank": 915200
   },
   {
     "name": "typescript",
-    "yearly": 31200000,
-    "monthly": 2600000,
-    "daily": 86666.66666666667,
-    "rank": 23674
+    "yearly": 10600000,
+    "monthly": 886600,
+    "daily": 29600,
+    "rank": 56700
   },
   {
     "name": "flow",
-    "yearly": 900000,
-    "monthly": 75000,
-    "daily": 2500,
-    "rank": 331230
+    "yearly": 300000,
+    "monthly": 25000,
+    "daily": 833,
+    "rank": 1200000
   },
   {
     "name": "rxjs",
-    "yearly": 5612400,
-    "monthly": 467700,
-    "daily": 15590,
-    "rank": 112049
+    "yearly": 1300000,
+    "monthly": 110200,
+    "daily": 3700,
+    "rank": 359000
   },
   {
     "name": "solid",
-    "yearly": 2205600,
-    "monthly": 183800,
-    "daily": 6126.666666666667,
-    "rank": 226987
-  },
-  {
-    "name": "babel",
-    "yearly": 4510800,
-    "monthly": 375900,
-    "daily": 12530,
-    "rank": 119600
+    "yearly": 1200000,
+    "monthly": 96500,
+    "daily": 3200,
+    "rank": 379500
   },
   {
     "name": "qwik",
-    "yearly": 4644000,
-    "monthly": 387000,
-    "daily": 12900,
-    "rank": 70392
+    "yearly": 495600,
+    "monthly": 41300,
+    "daily": 1400,
+    "rank": 765100
+  },
+  {
+    "name": "babel",
+    "yearly": 4500000,
+    "monthly": 375900,
+    "daily": 12500,
+    "rank": 119600
   },
   {
     "name": "jquery",
-    "yearly": 28800000,
-    "monthly": 2400000,
-    "daily": 80000,
-    "rank": 34771
+    "yearly": 4700000,
+    "monthly": 390100,
+    "daily": 13000,
+    "rank": 132100
   },
   {
     "name": "astro",
-    "yearly": 9805200,
-    "monthly": 817100,
-    "daily": 27237,
-    "rank": 54565
+    "yearly": 9800000,
+    "monthly": 817000,
+    "daily": 27200,
+    "rank": 54600
   }
 ]
